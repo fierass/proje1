@@ -1,0 +1,14 @@
+fýrat
+
+repeater kullanýmý
+
+fileupload control kullanýmý
+
+table kullanýmý
+
+
+asým
+
+
+image button kullanýmý
+radiobutton kullanýmý
